@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad01</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="pulsar_boton">Pulsa el Botón!</string>
+</resources>
